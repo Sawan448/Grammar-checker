@@ -1,5 +1,6 @@
 🚀 Overview
 
+
 This project is a Grammar Checker that helps users identify and correct grammatical errors in written text. It leverages the Gramformer library, a state-of-the-art NLP model designed for grammar correction.
 
 
@@ -14,6 +15,7 @@ Content creators who need quick grammar corrections.
 Developers integrating grammar correction into applications.
 Anyone who wants an easy way to refine their text without requiring complex software.
 The project is lightweight, efficient, and runs locally without requiring a powerful GPU, making it accessible for all users.
+
 
 
 ✨ Features
